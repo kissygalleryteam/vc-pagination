@@ -1,4 +1,4 @@
-KISSY.add('kg/vc-pagination/1.1.0/index',["node","base","kg/xtemplate/3.3.3/runtime","./tpl"],function(S ,require, exports, module) {
+KISSY.add('kg/vc-pagination/1.0.0/index',["node","base","kg/xtemplate/3.3.3/runtime","./tpl"],function(S ,require, exports, module) {
  var $ = require('node').all;
 var Base = require('base');
 var XTR = require("kg/xtemplate/3.3.3/runtime");
