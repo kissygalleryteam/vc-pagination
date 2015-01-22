@@ -1,0 +1,13 @@
+{
+    "name": "vc-pagination",
+    "version": "1.0.3",
+    "main": "index.js",
+    "ignore": [
+        "**/*",
+        "!index.js",
+        "!index.css",
+        "!lib/**/*"
+    ],
+    "dependencies": {
+    }
+}
