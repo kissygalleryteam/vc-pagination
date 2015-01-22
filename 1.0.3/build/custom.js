@@ -1,4 +1,4 @@
-KISSY.add('kg/vc-pagination/1.0.3/custom',[],function(S ,require, exports, module) {
+KISSY.add('kg/vc-pagination/1.1.0/custom',[],function(S ,require, exports, module) {
 
 
 var ret = module.exports = function custom(undefined){
