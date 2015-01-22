@@ -5,8 +5,8 @@ VcPagination分页
 ![http://gtms02.alicdn.com/tps/i2/TB1DApgHXXXXXbOXXXXFvIM3VXX-434-180.png](http://gtms02.alicdn.com/tps/i2/TB1DApgHXXXXXbOXXXXFvIM3VXX-434-180.png)
 
 ## 初始化组件
-		
-    S.use('kg/vc-pagination/1.0.0/index', function (S, VcPagination) {
+	//皮肤文件建议直接拿源码的less文件根据自己业务定制化使用	
+    S.use('kg/vc-pagination/1.0.0/index,kg/vc-pagination/1.0.0/index.css', function (S, VcPagination) {
         var vc-pagination = new VcPagination({
         	$container: '#page',
         	totalPage: 15

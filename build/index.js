@@ -1,9 +1,8 @@
-KISSY.add('kg/vc-pagination/1.0.0/index',["node","base","kg/xtemplate/3.3.3/runtime","./tpl","./index.css"],function(S ,require, exports, module) {
+KISSY.add('kg/vc-pagination/1.0.0/index',["node","base","kg/xtemplate/3.3.3/runtime","./tpl"],function(S ,require, exports, module) {
  var $ = require('node').all;
 var Base = require('base');
 var XTR = require("kg/xtemplate/3.3.3/runtime");
 var tpl = require('./tpl');
-require('./index.css');
 //样式 有用于逻辑判断
 var CLS = {
     DISABLED: 'disabled',

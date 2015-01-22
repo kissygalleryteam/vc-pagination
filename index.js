@@ -2,7 +2,6 @@ var $ = require('node').all;
 var Base = require('base');
 var XTR = require("kg/xtemplate/3.3.3/runtime");
 var tpl = require('./tpl');
-require('./index.css');
 //样式 有用于逻辑判断
 var CLS = {
     DISABLED: 'disabled',
