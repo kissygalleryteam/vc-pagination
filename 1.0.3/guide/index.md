@@ -6,7 +6,7 @@ VcPagination分页
 
 ## 初始化组件
 	//皮肤文件建议直接拿源码的less文件根据自己业务定制化使用	
-    S.use('kg/vc-pagination/1.0.3/index,kg/vc-pagination/1.0.3/index.css', function (S, VcPagination) {
+    S.use('kg/vc-pagination/1.1.0/index,kg/vc-pagination/1.1.0/index.css', function (S, VcPagination) {
         var vc-pagination = new VcPagination({
         	$container: '#page',
         	totalPage: 15
