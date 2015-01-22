@@ -1,4 +1,4 @@
-KISSY.add('kg/vc-pagination/1.0.3/tpl-render',["./tpl","kg/xtemplate/3.3.3/runtime"],function(S ,require, exports, module) {
+KISSY.add('kg/vc-pagination/1.1.0/tpl-render',["./tpl","kg/xtemplate/3.3.3/runtime"],function(S ,require, exports, module) {
 
 
 var tpl = require("./tpl");
