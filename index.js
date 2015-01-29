@@ -291,3 +291,10 @@ var VcPagination = Base.extend({
 });
 
 module.exports = VcPagination;
+/**
+ * TODO List
+ * 1.xtemplate优化，直接用stitub
+ * 2.文档添加skip:error事件
+ * 3.删除show和hide
+ * 4.changelog
+ */
